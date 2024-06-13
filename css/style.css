@@ -1,5 +1,21 @@
 header {
-    width: 100%;
-    height: 340px;
-    background-color: blue;
+  width: 100%;
+  height: 340px;
+  background-color: blue;
+}
+
+.topp {
+  margin-top: -200px;
+}
+
+footer{
+  color: #fff;
+  background-color: #0E1D34;
+  ul{
+    list-style: none  ;
+  }
+  a{
+    text-decoration: none;
+    color: #fff;
+  }
 }
